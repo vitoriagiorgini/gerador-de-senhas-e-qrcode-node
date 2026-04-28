@@ -2,6 +2,10 @@
 
 Este projeto é uma ferramenta de linha de comando desenvolvida em Node.js para facilitar a rotina de segurança e conectividade. Ele permite gerar senhas aleatórias e seguras com critérios customizáveis e criar QR Codes a partir de links, tudo de forma modular e eficiente.
 
+<p align="center">
+  <img src="./assets/qrcode.jpg" alt="Demonstração do Projeto" width="40%">
+</p>
+
 ## ✨ Funcionalidades
 
 O projeto foi construído focando em modularidade e flexibilidade, oferecendo:
